@@ -1,4 +1,3 @@
-## Alura-plus
+# Alura-plus
 
-# Site:
-https://alura-plus-git-main-migliatti.vercel.app
+### Site: https://alura-plus-git-main-migliatti.vercel.app
